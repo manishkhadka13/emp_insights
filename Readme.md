@@ -1,4 +1,4 @@
-# 📊 Employee Insights Dashboard
+# 📊 Employee Insights
 
 This project explores employee data using **Pandas** and **SQL** to generate business insights and visualizations. The goal is to practice data cleaning, querying, and analysis techniques on a realistic dataset.
 
